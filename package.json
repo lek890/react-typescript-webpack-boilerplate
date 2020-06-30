@@ -1,7 +1,7 @@
 {
-  "name": "react-typescript-by-sample",
+  "name": "react-typescript-webpack-boilerplate",
   "version": "1.0.0",
-  "description": "React Typescript examples",
+  "description": "React Typescript Webpack boilerplate for quick experiments",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server  --mode development --inline --hot --open",
@@ -12,7 +12,7 @@
     "typescript",
     "hooks"
   ],
-  "author": "Braulio Diez Botella",
+  "author": "Lekshmi Chandra",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
