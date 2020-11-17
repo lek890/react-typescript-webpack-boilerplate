@@ -36,6 +36,7 @@
   },
   "dependencies": {
     "react": "^16.8.2",
-    "react-dom": "^16.8.2"
+    "react-dom": "^16.8.2",
+    "react-query": "^2.26.2"
   }
 }
